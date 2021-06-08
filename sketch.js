@@ -14,7 +14,7 @@ bg=loadImage("back.png")
 
 function setup() {
   createCanvas(1600, 800);
-
+  alert("Mam i am making box class isStati:false but it is not falling down please help!!!!!!")
   engine = Engine.create();
   world = engine.world;
 
